@@ -9,4 +9,6 @@ git clone https://github.com/sudo-win/streamlit-llm-chatbot.git</br>
 cd streamlit-llm-chatbot</br>
 pip install -r requirements.txt
 4) Run</br>
-streamlit run app.py 
+streamlit run app.py
+
+![streamlit_llm](https://github.com/user-attachments/assets/909ea34f-3093-4062-b8bc-a4da115e3433)
