@@ -1,0 +1,4 @@
+chromadb==0.6.3
+ollama==0.4.7
+PyPDF2==3.0.1
+streamlit==1.43.2
